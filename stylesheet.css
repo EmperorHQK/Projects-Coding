@@ -1,0 +1,73 @@
+.thick-black-border {
+  border-color: black;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 10px;
+}
+h6 {
+  color: red;
+  text-align: center;
+}
+ h3 {
+font-family: sans-serif;
+text-align: center;
+}
+.silver-background {
+background-color: #444;
+border-color: black;
+border-width: 5px;
+border-style: solid;
+text-align: center;
+}
+.other-silver-background {
+background-color: #444;
+border-color: black;
+border-width: 5px;
+border-style: solid;
+text-align: center;
+}
+h1 {
+font-family: Lobster, GENERIC_NAME;
+color: blue;
+text-align: center;
+}
+h2 {
+text-align: center;
+}
+img {
+display: block;
+width: 20%;
+margin-left: auto;
+margin-right: auto;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+header {
+  background: #55dfaa;
+  margin: 0%;
+}
+
+main {
+  background: silver;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+}
+
+nav li {
+  display: inline-block;
+  margin-left: 348px;
+  padding-top: 1px;
+}
+
+nav a {
+  color: #444;
+  text-decoration: none;
+  text-transform: uppercase;
+}
